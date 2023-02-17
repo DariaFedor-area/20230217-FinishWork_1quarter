@@ -14,3 +14,20 @@
 */
 
 Console.Clear();
+
+string text = "hello, 2, world, :-), "
++ "1234, 1567, -2, computer science, >:0";
+
+string[] elements = text.Split(',');
+foreach (string element in elements)
+{
+    var elementLimit = 3 + 1; /* учтен момент, что при обработки длины element.Length программа перебирает
+                                 массив с 0, поэтому чтобы вошел последний элемент добавлаем 1 */
+    if (element.Length <= elementLimit)
+    {
+        Console.WriteLine($"элемент: {element}");
+        // Console.WriteLine($"элемент: 0");
+    }
+}
+
+

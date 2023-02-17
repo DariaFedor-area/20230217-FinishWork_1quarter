@@ -1,0 +1,15 @@
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\bin\Debug\net6.0\finishWork.exe
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\bin\Debug\net6.0\finishWork.deps.json
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\bin\Debug\net6.0\finishWork.runtimeconfig.json
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\bin\Debug\net6.0\finishWork.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\bin\Debug\net6.0\finishWork.pdb
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.csproj.AssemblyReference.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.AssemblyInfoInputs.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.AssemblyInfo.cs
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.csproj.CoreCompileInputs.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\refint\finishWork.dll
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.pdb
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\finishWork.genruntimeconfig.cache
+C:\Users\Daria Fedor\Desktop\С_sharp\finishWork\obj\Debug\net6.0\ref\finishWork.dll
